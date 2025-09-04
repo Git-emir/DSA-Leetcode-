@@ -16,4 +16,12 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
