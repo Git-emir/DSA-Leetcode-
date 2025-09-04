@@ -7,6 +7,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ solutions of leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 ## String
 |  |
