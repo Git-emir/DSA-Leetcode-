@@ -10,6 +10,7 @@ solutions of leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
