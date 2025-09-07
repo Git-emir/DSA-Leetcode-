@@ -12,6 +12,7 @@ solutions of leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
