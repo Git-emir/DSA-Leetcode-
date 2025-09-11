@@ -16,6 +16,7 @@ solutions of leetcode problems
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
+| [2048-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@ solutions of leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
