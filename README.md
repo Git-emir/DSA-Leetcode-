@@ -19,6 +19,7 @@ solutions of leetcode problems
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [2048-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +60,12 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
