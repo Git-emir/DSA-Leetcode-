@@ -30,6 +30,7 @@ solutions of leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ solutions of leetcode problems
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
@@ -71,6 +73,7 @@ solutions of leetcode problems
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
