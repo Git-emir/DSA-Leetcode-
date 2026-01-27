@@ -11,6 +11,7 @@ solutions of leetcode problems
 | [0027-remove-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -50,6 +52,7 @@ solutions of leetcode problems
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -71,6 +74,7 @@ solutions of leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
