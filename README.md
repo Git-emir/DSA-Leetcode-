@@ -17,6 +17,7 @@ solutions of leetcode problems
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
@@ -72,6 +73,7 @@ solutions of leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
