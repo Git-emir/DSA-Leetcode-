@@ -15,9 +15,7 @@ class Solution {
                     //currentNum++;
                     count++;
                 
-                }if(count>maxlength){
-                    maxlength = count;
-                }
+                } maxlength = Math.max(maxlength, count);
 
 
         }
