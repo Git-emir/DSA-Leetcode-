@@ -8,11 +8,11 @@ class Solution {
         int maxlength =0;
         for (int x : hs) {
             if (!hs.contains(x - 1)) {
-                int currentNum = x;
+                //int currentNum = x;
                 int count = 1;
 
-            while (hs.contains(currentNum + 1)) {
-                    currentNum++;
+            while (hs.contains(x + count)) {
+                    //currentNum++;
                     count++;
                 
                 }if(count>maxlength){
