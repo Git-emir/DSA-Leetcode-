@@ -60,6 +60,7 @@ solutions of leetcode problems
 | [0027-remove-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
