@@ -62,6 +62,7 @@ solutions of leetcode problems
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
@@ -143,6 +144,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -156,10 +158,12 @@ solutions of leetcode problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
