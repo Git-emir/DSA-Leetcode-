@@ -29,6 +29,7 @@ solutions of leetcode problems
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
@@ -81,6 +82,7 @@ solutions of leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
