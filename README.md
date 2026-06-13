@@ -19,6 +19,7 @@ solutions of leetcode problems
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ solutions of leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
@@ -125,6 +127,7 @@ solutions of leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -193,6 +196,7 @@ solutions of leetcode problems
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -221,6 +225,7 @@ solutions of leetcode problems
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
