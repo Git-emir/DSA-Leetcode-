@@ -51,6 +51,7 @@ solutions of leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
@@ -90,6 +91,7 @@ solutions of leetcode problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -207,6 +209,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 ## Tree
 |  |
