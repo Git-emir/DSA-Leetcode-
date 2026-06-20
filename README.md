@@ -16,6 +16,7 @@ solutions of leetcode problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
@@ -125,6 +126,7 @@ solutions of leetcode problems
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -197,6 +199,7 @@ solutions of leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
