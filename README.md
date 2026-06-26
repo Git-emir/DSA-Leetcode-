@@ -184,6 +184,7 @@ solutions of leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -227,6 +228,7 @@ solutions of leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -241,6 +243,7 @@ solutions of leetcode problems
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -266,6 +269,7 @@ solutions of leetcode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
