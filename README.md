@@ -181,6 +181,7 @@ solutions of leetcode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
@@ -218,6 +219,7 @@ solutions of leetcode problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
@@ -232,6 +234,7 @@ solutions of leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -253,6 +256,7 @@ solutions of leetcode problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0102-binary-tree-level-order-traversal) |
