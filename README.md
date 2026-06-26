@@ -22,6 +22,7 @@ solutions of leetcode problems
 | [0056-merge-intervals](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -66,6 +67,7 @@ solutions of leetcode problems
 | [0033-search-in-rotated-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
@@ -212,6 +214,7 @@ solutions of leetcode problems
 | ------- |
 | [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 ## Sliding Window
 |  |
 | ------- |
