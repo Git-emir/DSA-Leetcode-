@@ -29,6 +29,7 @@ solutions of leetcode problems
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -57,6 +58,7 @@ solutions of leetcode problems
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -130,6 +132,7 @@ solutions of leetcode problems
 | [0056-merge-intervals](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -152,6 +155,7 @@ solutions of leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +168,7 @@ solutions of leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
