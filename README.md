@@ -49,6 +49,7 @@ solutions of leetcode problems
 | [2058-concatenation-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ solutions of leetcode problems
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ solutions of leetcode problems
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -229,6 +232,7 @@ solutions of leetcode problems
 | [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
