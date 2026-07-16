@@ -38,6 +38,7 @@ solutions of leetcode problems
 | [0283-move-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
