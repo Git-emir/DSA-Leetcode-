@@ -173,6 +173,7 @@ solutions of leetcode problems
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
@@ -180,6 +181,7 @@ solutions of leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -230,6 +232,7 @@ solutions of leetcode problems
 | [0002-add-two-numbers](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
@@ -348,4 +351,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0039-combination-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
