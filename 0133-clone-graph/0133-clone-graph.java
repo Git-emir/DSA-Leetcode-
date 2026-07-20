@@ -20,6 +20,9 @@ class Node {
 
 class Solution {
     private Node cloneg(Node node, HashMap<Node,Node> hm ){
+        if (hm.containsKey(node)) {
+             return hm.get(node);
+        }
        
         Node newNode = new Node(node.val);
         hm.put(node,newNode);
