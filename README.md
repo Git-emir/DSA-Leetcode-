@@ -206,6 +206,7 @@ solutions of leetcode problems
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -309,6 +310,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -322,6 +324,7 @@ solutions of leetcode problems
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +374,7 @@ solutions of leetcode problems
 | ------- |
 | [0133-clone-graph](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
