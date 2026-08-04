@@ -46,6 +46,7 @@ solutions of leetcode problems
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1920-build-array-from-permutation) |
@@ -166,6 +167,7 @@ solutions of leetcode problems
 | [0050-powx-n](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
@@ -214,6 +216,7 @@ solutions of leetcode problems
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
 | ------- |
@@ -379,4 +382,16 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0207-course-schedule) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
