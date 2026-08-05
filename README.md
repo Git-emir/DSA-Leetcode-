@@ -169,6 +169,7 @@ solutions of leetcode problems
 | [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,6 +219,7 @@ solutions of leetcode problems
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 ## Stack
@@ -402,4 +404,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
