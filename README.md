@@ -128,6 +128,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -225,6 +226,7 @@ solutions of leetcode problems
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
+| [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
@@ -412,4 +414,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
