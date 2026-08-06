@@ -28,6 +28,7 @@ solutions of leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
@@ -133,6 +134,7 @@ solutions of leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
@@ -380,6 +382,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
