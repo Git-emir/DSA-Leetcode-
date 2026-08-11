@@ -443,4 +443,8 @@ solutions of leetcode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
