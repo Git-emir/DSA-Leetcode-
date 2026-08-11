@@ -249,6 +249,7 @@ solutions of leetcode problems
 | [0144-binary-tree-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -389,6 +390,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Backtracking
 |  |
@@ -440,4 +442,5 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
