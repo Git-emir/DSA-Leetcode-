@@ -50,6 +50,7 @@ solutions of leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
@@ -83,6 +84,7 @@ solutions of leetcode problems
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -251,10 +253,12 @@ solutions of leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
