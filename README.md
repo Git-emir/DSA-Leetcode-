@@ -77,6 +77,7 @@ solutions of leetcode problems
 | [0133-clone-graph](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0217-contains-duplicate) |
@@ -276,6 +277,7 @@ solutions of leetcode problems
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
@@ -393,6 +395,7 @@ solutions of leetcode problems
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -451,4 +454,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
