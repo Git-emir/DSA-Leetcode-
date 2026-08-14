@@ -56,6 +56,7 @@ solutions of leetcode problems
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+| [0994-rotting-oranges](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0994-rotting-oranges) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1603-running-sum-of-1d-array) |
@@ -307,6 +308,7 @@ solutions of leetcode problems
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -367,6 +369,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
+| [0994-rotting-oranges](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
