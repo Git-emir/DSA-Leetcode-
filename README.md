@@ -261,12 +261,14 @@ solutions of leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -410,6 +412,7 @@ solutions of leetcode problems
 | [0225-implement-stack-using-queues](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -479,4 +482,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
