@@ -90,6 +90,7 @@ solutions of leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2965-find-missing-and-repeated-values](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -180,6 +181,7 @@ solutions of leetcode problems
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -338,6 +340,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -358,6 +361,7 @@ solutions of leetcode problems
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -372,6 +376,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -391,6 +396,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
