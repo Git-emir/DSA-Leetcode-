@@ -340,6 +340,7 @@ solutions of leetcode problems
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -361,6 +362,7 @@ solutions of leetcode problems
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0785-is-graph-bipartite) |
@@ -398,6 +400,7 @@ solutions of leetcode problems
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -499,4 +502,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
