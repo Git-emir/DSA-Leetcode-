@@ -347,6 +347,7 @@ solutions of leetcode problems
 | [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -414,6 +415,7 @@ solutions of leetcode problems
 | [0543-diameter-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
@@ -429,6 +431,7 @@ solutions of leetcode problems
 | [0098-validate-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
