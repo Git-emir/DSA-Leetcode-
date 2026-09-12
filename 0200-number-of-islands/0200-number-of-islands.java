@@ -1,3 +1,5 @@
+//one more aprroach that did not use extra matrix[][] hint - make 1 to 0
+
 class Solution {
     public int numIslands(char[][] grid) {
         int rows = grid.length;
