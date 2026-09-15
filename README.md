@@ -126,6 +126,7 @@ solutions of leetcode problems
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
@@ -144,6 +145,7 @@ solutions of leetcode problems
 | [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
