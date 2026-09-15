@@ -76,6 +76,7 @@ solutions of leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -142,6 +143,7 @@ solutions of leetcode problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -197,6 +199,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0060-permutation-sequence) |
