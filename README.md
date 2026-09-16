@@ -158,6 +158,7 @@ solutions of leetcode problems
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
+| [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
@@ -464,6 +465,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0572-subtree-of-another-tree) |
+| [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
 ## Hash Function
 |  |
 | ------- |
@@ -587,4 +589,16 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0014-longest-common-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
