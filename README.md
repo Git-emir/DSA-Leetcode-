@@ -9,6 +9,7 @@ solutions of leetcode problems
 | [0001-two-sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -145,6 +146,7 @@ solutions of leetcode problems
 | [0005-longest-palindromic-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
@@ -581,4 +583,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
