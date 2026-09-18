@@ -162,6 +162,7 @@ solutions of leetcode problems
 | [0424-longest-repeating-character-replacement](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Git-emir/DSA-Leetcode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
@@ -270,6 +271,7 @@ solutions of leetcode problems
 | [0198-house-robber](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
 | [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
 ## Stack
 |  |
