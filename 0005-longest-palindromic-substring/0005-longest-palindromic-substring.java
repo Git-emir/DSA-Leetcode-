@@ -11,12 +11,12 @@ class Solution {
             int len2 = expand(i, i + 1, s);
 
             int l = Math.max(len1, len2);
-            if (l > maxlen){
+            if (l > maxlen) {
                 maxlen = l;
-                start = i - (l -1)/2;
+                start = i - (l - 1) / 2;
             }
         }
-        return s.substring(start,start+maxlen);
+        return s.substring(start, start + maxlen);
     }
 
     private int expand(int s, int e, String str) {
