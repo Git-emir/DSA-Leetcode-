@@ -155,6 +155,7 @@ solutions of leetcode problems
 | [0038-count-and-say](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
@@ -271,6 +272,7 @@ solutions of leetcode problems
 | [0053-maximum-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0198-house-robber) |
