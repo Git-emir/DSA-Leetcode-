@@ -52,6 +52,7 @@ solutions of leetcode problems
 | [0239-sliding-window-maximum](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
@@ -277,6 +278,7 @@ solutions of leetcode problems
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -436,6 +438,7 @@ solutions of leetcode problems
 | [0207-course-schedule](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0662-maximum-width-of-binary-tree) |
@@ -617,4 +620,12 @@ solutions of leetcode problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0686-repeated-string-match) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
