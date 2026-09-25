@@ -41,6 +41,7 @@ solutions of leetcode problems
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@ solutions of leetcode problems
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0146-lru-cache) |
@@ -160,6 +162,7 @@ solutions of leetcode problems
 | [0091-decode-ways](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0242-valid-anagram) |
@@ -277,6 +280,7 @@ solutions of leetcode problems
 | [0091-decode-ways](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0213-house-robber-ii) |
@@ -552,6 +556,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -607,6 +612,7 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -630,4 +636,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0322-coin-change) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
