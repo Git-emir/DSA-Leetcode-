@@ -554,6 +554,7 @@ solutions of leetcode problems
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 ## Memoization
 |  |
@@ -647,4 +648,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0300-longest-increasing-subsequence) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
