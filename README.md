@@ -555,6 +555,7 @@ solutions of leetcode problems
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0455-assign-cookies) |
 ## Memoization
