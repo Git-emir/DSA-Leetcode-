@@ -654,4 +654,12 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0075-sort-colors) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
