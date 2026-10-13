@@ -65,6 +65,7 @@ solutions of leetcode problems
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1406-stone-game-iii](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1406-stone-game-iii) |
@@ -118,6 +119,7 @@ solutions of leetcode problems
 | [0300-longest-increasing-subsequence](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
