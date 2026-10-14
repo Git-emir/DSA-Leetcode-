@@ -63,6 +63,7 @@ solutions of leetcode problems
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0875-koko-eating-bananas) |
@@ -315,6 +316,7 @@ solutions of leetcode problems
 | [0232-implement-queue-using-stacks](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -323,6 +325,7 @@ solutions of leetcode problems
 | [0042-trapping-rain-water](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Git-emir/DSA-Leetcode-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
