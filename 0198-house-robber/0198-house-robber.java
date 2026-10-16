@@ -1,43 +1,27 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        return sum(n-1,nums);
+        int[] dp = new int[n + 1];
+        for (int i = 0; i <= n; i++) {
+            dp[i] = -1;
+        }
+        return robber(n - 1, nums, dp);
 
     }
-    private int sum(int n,int[] nums){
-        int prev = nums[0];
-        int prev2 = 0;
-        for(int i =1;i<nums.length;i++){
-            int take = nums[i]; 
-            if(i>1){
-                take += prev2;
-            } 
-            int notTake = 0+prev;
-            int curi = Math.max(take,notTake);
-            prev2 = prev;
-            prev = curi;
+
+    private int robber(int id, int[] nums, int[] dp) {
+        int count = 0;
+        if (id == 0)
+            return nums[0];
+        if (id < 0)
+            return 0;
+        if (dp[id] != -1) {
+            return dp[id];
         }
-        return prev;
+        int pick = nums[id] + robber(id - 2, nums, dp);
+        int notpick = 0 + robber(id - 1, nums, dp);
+        count = Math.max(pick, notpick);
+        dp[id] = count;
+        return dp[id];
     }
 }
-
-
-// int n = nums.length;
-//         int[] dp = new int[n+1];
-//         for(int i =0;i<n+1;i++){
-//             dp[i] = -1;
-//         }
-//         return sum(n-1,nums,dp);
-//     }
-//     private int sum(int n,int[] nums,int[] dp){
-//         int max = 0;
-//         if(n ==0) return nums[0];
-//         if(n < 0) return 0;
-//         if(dp[n] != -1){
-//             return dp[n];
-//         }
-//         int pick = nums[n] + sum(n-2,nums,dp);
-//         int notPick = 0 + sum(n-1,nums,dp);
-//         max = Math.max(pick,notPick);
-//         dp[n] = max;
-//         return dp[n];
