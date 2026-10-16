@@ -1,38 +1,39 @@
-//one more aprroach that did not use extra matrix[][] hint - make 1 to 0
-
 class Solution {
     public int numIslands(char[][] grid) {
-        int rows = grid.length;
-        int col = grid[0].length;
-        boolean[][] vis = new boolean[rows][col];
+        int n = grid.length;
+        int m = grid[0].length;
+        boolean[][] vis = new boolean[n][m];
         int count = 0;
 
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < col; j++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 if (grid[i][j] == '1' && !vis[i][j]) {
                     count++;
-                    dfs(grid, vis, i, j);
-
+                    dfs(i, j, grid, vis);
                 }
             }
-            
-        }return count;
+        }
+        return count;
+
     }
 
-    private void dfs(char[][] grid, boolean[][] vis, int row, int col) {
+    private void dfs(int row,int col,char[][] grid,boolean[][] vis){
         vis[row][col] = true;
-        int[] dr = { -1, 0, 1, 0 };
-        int[] dc = { 0, 1, 0, -1 };
-        for (int i = 0; i < 4; i++) {
-            int nrow = row + dr[i];
-            int ccol = col + dc[i];
+        int[] r = {1,0,-1,0};
+        int[] c = {0,1,0,-1};
 
+        for(int i = 0;i<4;i++){
+            int nrow = row + r[i];
+            int ccol = col + c[i];
+            
             if (nrow >= 0 && nrow < grid.length &&
                     ccol >= 0 && ccol < grid[0].length &&
                     grid[nrow][ccol] == '1' && !vis[nrow][ccol]) {
-                dfs(grid, vis, nrow, ccol);
+                dfs(nrow,ccol,grid,vis);
 
-            }
         }
+        }
+
+
     }
 }
