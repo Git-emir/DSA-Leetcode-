@@ -4,7 +4,7 @@ class Solution {
      int s = 0;
      int m = 0;
      int e = n-1;
-     while(m<=e){
+     while(m <= e){
         if(nums[m] == 0){
             int temp = nums[m];
             nums[m] = nums[s];
