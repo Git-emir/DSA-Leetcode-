@@ -679,4 +679,8 @@ solutions of leetcode problems
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0023-merge-k-sorted-lists) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Git-emir/DSA-Leetcode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
