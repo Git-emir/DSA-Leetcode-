@@ -1,20 +1,20 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-      Arrays.sort(nums);
-      List<List<Integer>> ans  = new ArrayList<>();
-      set(0,nums,ans,new ArrayList<>());
-      return ans; 
+        Arrays.sort(nums);
+        List<List<Integer>> ans = new ArrayList<>();
+        set(0, nums, ans, new ArrayList<>());
+        return ans;
     }
 
-    private void set(int idx,int[] nums,  List<List<Integer>> ans,List<Integer> ds){
+    private void set(int idx, int[] nums, List<List<Integer>> ans, List<Integer> ds) {
         ans.add(new ArrayList<>(ds));
-        for(int i = idx;i<nums.length;i++){
-            if(i != idx && nums[i] == nums[i-1]){
+        for (int i = idx; i < nums.length; i++) {
+            if (i != idx && nums[i] == nums[i - 1]) {
                 continue;
             }
             ds.add(nums[i]);
-            set(i+1,nums,ans,ds);
-            ds.remove(ds.size() -1);
+            set(i + 1, nums, ans, ds);
+            ds.remove(ds.size() - 1);
         }
     }
 }
