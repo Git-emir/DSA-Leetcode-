@@ -13,7 +13,9 @@ class Solution {
         }
         for(int i = idx;i<candidates.length;i++){
             if(i>idx && candidates[i] == candidates[i-1]) continue;
+
             if(candidates[i]>target) break;
+            
             ds.add(candidates[i]);
             findcombination(i+1,candidates,target-candidates[i],ans,ds);
             ds.remove(ds.size() -1);
